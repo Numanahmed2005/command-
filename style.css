@@ -1,0 +1,16 @@
+.up{
+    background-image: url(image/fb\ banner.jpg );
+    height: 300px;
+    
+}
+.up h1{
+    text-align: center;
+    color: black;
+    text-shadow: 2px 2px 2px;
+}
+.nav ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    overflow: none;
+}
